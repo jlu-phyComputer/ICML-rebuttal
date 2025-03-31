@@ -1,4 +1,4 @@
-Table 3: MSE Changes After Adding EGNI/ESNI (Δ%)Corresponding to Figures 1(c) and 1(d). The look-back and prediction lengths are set to 96. 
+Table 3: MSE changes after adding EGNI/ESNI (Δ%) corresponding to Figures 1(c) and 1(d). The look-back and prediction lengths are set to 96. 
 
 | Model                  | ETTH2  | ECL    | Traffic | Weather | Solar-Energy | PEMS03  |
 | ---------------------- | ------ | ------ | ------- | ------- | ------------ | ------- |
