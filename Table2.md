@@ -1,4 +1,4 @@
-Table2: Forecasting performance with and without Adding π. The lookback length is fixed at 96. For PEMS03, prediction lengths are {12, 24, 36, 48}; for other datasets, prediction lengths are {96, 192, 336, 720}. Results are reported as MSE/MAE.
+Table2: Forecasting performance with and without adding π. The lookback length is fixed at 96. For PEMS03, prediction lengths are {12, 24, 36, 48}; for other datasets, prediction lengths are {96, 192, 336, 720}. Results are reported as MSE/MAE.
 
 | Pred Len | ETTh2         | Weather       | ECL           | Traffic       | Solar-Energy  | PEMS03        |
 | -------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
